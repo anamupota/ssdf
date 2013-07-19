@@ -1,6 +1,6 @@
 /*
 * Simple Wiselib Example
-Another test with patch 3
+Another test with patch 4443
 */
 
 #include "external_interface/external_interface.h"
