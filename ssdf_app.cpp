@@ -1,5 +1,6 @@
 /*
 * Simple Wiselib Example
+Another test with patch
 */
 
 #include "external_interface/external_interface.h"
